@@ -19,10 +19,6 @@
 
   **Gitee：** [干巴爹兔](https://gitee.com/cyh199910)
 
-- ### ✨ **仓库：**
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudhao1999&repo=cloud-app-admin&theme=cobalt&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
-
 - ### **最常用的语言：**
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&theme=cobalt&layout=compact)](https://github.com/cloudhao1999/github-readme-stats)
