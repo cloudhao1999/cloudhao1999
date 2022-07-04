@@ -4,7 +4,7 @@
 
 - ### 🔨技术栈：
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)    
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![vue](https://img.shields.io/badge/-vue-20BB87?style=flat-square&logo=vite&logoColor=white)    
 
 - ### ✏️ **开发环境：**
 
