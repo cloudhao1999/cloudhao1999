@@ -2,8 +2,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&show_icons=true">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&layout=compact"></img>
-
 - ### 🔨技术栈：
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)    
