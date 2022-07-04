@@ -10,6 +10,8 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=cobalt&show_icons=true">
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&theme=cobalt&layout=compact"></img>
+
 
 - ### ⚡ **博客:** 
 
@@ -19,6 +21,3 @@
 
   **Gitee：** [干巴爹兔](https://gitee.com/cyh199910)
 
-- ### **最常用的语言：**
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&theme=cobalt&layout=compact)](https://github.com/cloudhao1999/github-readme-stats)
