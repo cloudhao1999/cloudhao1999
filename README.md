@@ -1,8 +1,8 @@
 ## 欢迎来到我的主页 :wave: 
 
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=cobalt&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&show_icons=true">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&theme=cobalt&layout=compact"></img>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&layout=compact"></img>
 
 - ### 🔨技术栈：
 
