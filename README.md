@@ -21,8 +21,8 @@
 
 - ### ✨ **仓库：**
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudhao1999&repo=cloud-app-admin&bg_color=fff&text_color=000&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudhao1999&repo=cloud-app-admin&theme=cobalt&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
 
 - ### **最常用的语言：**
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&layout=compact)](https://github.com/cloudhao1999/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudhao1999&theme=cobalt&layout=compact)](https://github.com/cloudhao1999/github-readme-stats)
