@@ -2,7 +2,7 @@
 
 - ### 🔨技术栈：
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white)    
 
 - ### :pencil2: **开发环境：**
 
@@ -13,13 +13,13 @@
 
 - ### ⚡ **博客:** 
 
-  [https://cloudhao.top](https://cloudhao.top/#/) 猪猪の博客**
+  [猪猪の博客](https://cloudhao.top/#/)
 
 - ### ❤ **其他平台：**
 
-  **Gitee：** [https://gitee.com/cyh199910](https://gitee.com/cyh199910)
+  **Gitee：** [干巴爹兔](https://gitee.com/cyh199910)
 
 - ### ✨ **仓库：**
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudhao1999&repo=cloud-app-admin&bg_color=00000010&text_color=c78944&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cloudhao1999&repo=cloud-app-admin&bg_color=fff&text_color=000&show_owner=true)](https://github.com/adminwhalefall/SMSBoom)
 
