@@ -1,6 +1,6 @@
 ## 欢迎来到我的主页 :wave: 
 
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=transparent&show_icons=true">
 
 - ### 🔨技术栈：
 
