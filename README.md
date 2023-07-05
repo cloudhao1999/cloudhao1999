@@ -2,7 +2,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=transparent&show_icons=true">
 
-- ### 🔨Technology stack：
+- ### 🔨 Technology stack：
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-20BB87?style=flat-square&logo=vue.js&logoColor=white)    
 
