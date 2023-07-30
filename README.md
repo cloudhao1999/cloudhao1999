@@ -2,6 +2,12 @@
 
 <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=transparent&show_icons=true">
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudhao1999/cloudhao1999/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudhao1999/cloudhao1999/output/github-contribution-grid-snake.svg">
+    <img align="right" width="50%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cloudhao1999/cloudhao1999/output/github-contribution-grid-snake.svg">
+</picture>
+
 - ### 🔨 Technology stack：
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![javascript](https://img.shields.io/badge/-JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue-20BB87?style=flat-square&logo=vue.js&logoColor=white)    
@@ -13,9 +19,9 @@
 
 - ### ⚡ **Blog:** 
 
-  [干巴爹兔的博客](https://cloudhao.top/#/)
+  [Blog](https://cloudhao.top/#/)
 
 - ### ❤ **Other platforms：**
 
-  **Gitee：** [干巴爹兔](https://gitee.com/cyh199910)
+  **Gitee：** [Gitee](https://gitee.com/cyh199910)
 
