@@ -1,6 +1,8 @@
 ## Welcome to my homepage :wave: 
 
-<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=transparent&show_icons=true">
+<img media="(prefers-color-scheme: dark)" align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue-dark&show_icons=true&rank_icon=github">
+
+<img media="(prefers-color-scheme: light)" align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue&show_icons=true&rank_icon=github">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudhao1999/cloudhao1999/output/github-contribution-grid-snake-dark.svg">
@@ -19,7 +21,7 @@
 
 - ### ⚡ **Blog:** 
 
-  [Blog](https://cloudhao.top/#/)
+  [cloudhao's Blog](https://cloudhao.top/#/)
 
 - ### ❤ **Other platforms：**
 
