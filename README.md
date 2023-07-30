@@ -9,7 +9,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue-dark&show_icons=true&rank_icon=github">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue&show_icons=true&rank_icon=github">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue&show_icons=true&rank_icon=github">
+    <img align="right" style="margin-top:20px;" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=cloudhao1999&theme=vue&show_icons=true&rank_icon=github">
 </picture>
 
 - ### 🔨 Technology stack：
